@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bijay Syangtan(A beginner)
+- 👋 Hi, I’m Bijay Syangtan
 - 👀 I’m currently interested in web development
-- 🌱 I’m currently learning javascript and I'm just in my inital phase
+- 🌱 I’m currently learning django and drf
 - 💞️ I’m looking to collaborate on things that can be interesting
 - 📫 You can contact me through justbijay48@gmail.com, if you have any kind of suggestion as a beginner start. Thank you!!
 
